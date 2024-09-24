@@ -14,3 +14,5 @@ Helllo?
 ## YOU
 ### Hear
 #### Me
+
+updates to test npm and pnpm build settings in cloudflare
