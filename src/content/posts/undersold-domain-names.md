@@ -29,7 +29,7 @@ I haven't really had any 'Good Domains' in my portfolio since 2021, the greatest
 - Picked up by a Chinese Investor for 2K. I got this at auction for $157 back in 2022. This was part of my liquidate .cc domain phase. The only .cc that ever sell are numbers, FYI. I just wanted to get rid of all of them. My favorite, www.human.cc is still available.
 ### Voicing.AI
 - Hand reg from '21 (I think). Was going to an investor meetup and wanted to look 'cool'. Also, shamelessly promoted this name on Twitter for some reason. A triple blunder if you will.
-## AIpik.com
+### AIpik.com
 - Picked up for $11 at that domain liquidate site (name escapes me)
 ### PhotoReal.io
 - Hand reg
@@ -39,6 +39,7 @@ I haven't really had any 'Good Domains' in my portfolio since 2021, the greatest
 - GoDaddy Close Out - $11
 ### DealerShows.com
 - GoDaddy Close Out - $11
+- Quick side note: You can't really go wrong with buying two common whole word combinations at closeout. That said, they are getting increasingly rare. 
 --------------------
 
 ## Total Fumbles:
