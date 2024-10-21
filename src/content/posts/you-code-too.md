@@ -32,5 +32,6 @@ Helllo?
 - [Tustin Jobs](https://tustinjobs.com/)
 - [Okay.Directory](https://okay.directory/)
 - [Productized.Studio](https://productized.studio/)
+- [Best Electrician Jobs](https://bestelectricianjobs.com/)
 
 updates to test npm and pnpm build settings in cloudflare
