@@ -23,6 +23,7 @@ Helllo?
 - [Indie Affiliate](https://indieaffiliate.io/)
 - [Tustin Recruiting](https://tustinrecruiting.com/)
 - [Warm Websites](https://warmwebsites.com/)
+- [Mint UGC](https://www.mintugc.com/)
 - [Ford Pressure Washing](https://FordPressureWashing.com/)
 - [Laguna Hills Window Cleaning](https://lagunahillswindowcleaning.com/)
 - [Craig Comm](https://craigcomm.com/)
