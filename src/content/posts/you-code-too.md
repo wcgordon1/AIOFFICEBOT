@@ -34,5 +34,6 @@ Helllo?
 - [Okay.Directory](https://okay.directory/)
 - [Productized.Studio](https://productized.studio/)
 - [Best Electrician Jobs](https://bestelectricianjobs.com/)
+- [PopResume](https://popresume.com/)
 
 updates to test npm and pnpm build settings in cloudflare
