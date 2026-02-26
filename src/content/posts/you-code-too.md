@@ -35,5 +35,15 @@ Helllo?
 - [Productized.Studio](https://productized.studio/)
 - [Best Electrician Jobs](https://bestelectricianjobs.com/)
 - [PopResume](https://popresume.com/)
+- [Awake Mode](https://awakemode.com/)
+- [Swipe.photo](https://swipe.photo)
+- [Vows.you](https://vows.you/)
+- [Just Raised Funding](https://justraisedfunding.com/)
+PopResume
+
+Vows
+
+Swipe Photo
+
 
 updates to test npm and pnpm build settings in cloudflare
