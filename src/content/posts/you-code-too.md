@@ -39,11 +39,7 @@ Helllo?
 - [Swipe.photo](https://swipe.photo)
 - [Vows.you](https://vows.you/)
 - [Just Raised Funding](https://justraisedfunding.com/)
-PopResume
 
-Vows
-
-Swipe Photo
 
 
 updates to test npm and pnpm build settings in cloudflare
