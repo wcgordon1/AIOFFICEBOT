@@ -9,8 +9,6 @@ draft: false
 lang: ''
 ---
 
-# Free Wedding Vow Templates
-
 If you sit down to write your vows with a blank page, it can feel overwhelming.
 
 That is why **free wedding vow templates** exist. They give you structure without stealing your voice.
